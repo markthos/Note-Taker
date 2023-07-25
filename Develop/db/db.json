@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"id":"151af02f-31cc-463c-a6e9-39c8476f7c74","title":"Note 1","text":"Hello World!"},{"id":"045703d7-e518-4b7a-ae65-d6e5b7c8708c","title":"Note 2","text":"Spam and Eggs!"},{"id":"ec6cb3e7-69ab-4450-aae8-88fe0ce27b2d","title":"Note 3","text":"The Cake Is a Lie!"}]
