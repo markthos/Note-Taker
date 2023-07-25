@@ -1,6 +1,6 @@
 # Note Taker
 
-    ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   
