@@ -1,6 +1,6 @@
 # Note Taker
 
-    ![License](https://img.shields.io/badge/License-mit-blue.svg)
+    ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   
@@ -17,16 +17,19 @@
   - [Contact Info](#contact-info)
 
   ## Screenshot
-  <img src="images\screencapture-markthos-github-io-Work-Day-Scheduler-2023-07-14-14_50_50.png">
+  Landing Page
+  <img src="public/assets/images/screencapture-mt-note-taker-landing-page.png">
+  Notes Page
+  <img src="public/assets/images/screencapture-mt-note-taker-notes-page.png">
   
   ## Installation
   Please be sure to have node.js installed on your computer.  Clone the repo into your folder.  Make sure you have express, jest and uuid already installed as well.
 
   ## Usage
-  Just open the application in your browser with this [link]() Enjoy!
+  Just open the application in your browser with this [link](https://mt-note-taker-7ef9bb46c97a.herokuapp.com/) Enjoy!
   
   ## License
-  This project is covered under the mit [License](https://choosealicense.com/licenses/${license})
+  This project is covered under the mit [License](https://opensource.org/licenses/MIT)
 
   ## Contribution
   N/A
@@ -35,7 +38,7 @@
   N/A
 
   ## Questions
-  You can find the link to my application [here]()
+  You can find the link to my application [here](https://mt-note-taker-7ef9bb46c97a.herokuapp.com/)
   
   ## Contact Info
   - Github: [https://github.com/markthos]
